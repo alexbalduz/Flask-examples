@@ -9,5 +9,3 @@ def home():
 def admin():
     return 'Admin page'
 
-
-    
